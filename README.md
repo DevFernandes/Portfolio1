@@ -1,4 +1,4 @@
-# ✔️ Desafio de Projeto sobre Portfolio 1
+# ✔️ Desafio de Projeto Portfolio 1
 
 🗃️ Repositório criado para aperfeiçoar meus conhecimentos.
 

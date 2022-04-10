@@ -1,5 +1,8 @@
-# 👨‍🎓 Portfolio 1
+# ✔️ Desafio de Projeto sobre Portfolio 1
 
-🧑‍💼 Esse é meu segundo portfolio
+🗃️ Repositório criado para aperfeiçoar meus conhecimentos.
 
-- Desenvolvido, depois de adquirir mais conhecimentos sobre algumas skills.
+🚩 Skills:
+- HTML
+- CSS
+- JAVASCRIPT
